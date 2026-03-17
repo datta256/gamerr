@@ -16,7 +16,9 @@ Direct video link:
 https://github.com/user-attachments/assets/ac5d0945-04e6-4a5f-b4f6-e5f37cfb68f4
 
 ---
-
+  <video controls width="850">
+    <source src="https://github.com/user-attachments/assets/ac5d0945-04e6-4a5f-b4f6-e5f37cfb68f4" type="video/mp4">
+  </video>
 ## 🚀 What is Localboard?
 
 **Localboard** is an open-source Android keyboard that runs **Large Language Models locally on your device**.
