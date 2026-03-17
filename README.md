@@ -11,9 +11,7 @@
 ---
 
 ## 🎥 Demo (1m 32s)
-
-Direct video link:
-https://github.com/user-attachments/assets/ac5d0945-04e6-4a5f-b4f6-e5f37cfb68f4
+<video controls muted style="max-height:640px; min-height: 200px" src="https://github.com/user-attachments/assets/ac5d0945-04e6-4a5f-b4f6-e5f37cfb68f4"></video>  
 
 ---
   <video controls width="850">
